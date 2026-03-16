@@ -18,8 +18,8 @@ I am a **Computer Engineering Student** with a solid grounding in Data Structure
 
 - 🔭 **Strategic Goal**: Currently exploring **DevOps and Platform Engineering** to contribute towards robust, automated, and production-ready infrastructure.
 - ⚡ **Current Focus**: Architecting scalable microservices and orchestrating deployments via **Kubernetes**.
-- 🛠️ **Experience**: Recently completed a **Full Stack Web Developer Intern** at **Campus Credential**, engineering real-time grocery ordering systems.
-- 💬 **Ask me about**: AWS, Docker, Next.js, or why I prefer **Linux** for everything.
+- 🛠️ **Experience**: Recently completed a **Full Stack Web Developer , engineering real-time grocery ordering systems.
+- 💬 **Ask me about**: AWS, Docker, or why I prefer **Linux** for everything.
 
 ---
 
