@@ -1,18 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/main/hi.gif" width="30px"> Hey there, I'm Kshitij Kumbhar!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=KSHITIJ%20KUMBHAR&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kshitij-kumbhar-4129712a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kshitijkumbhar007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/kshitij__x07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
 ---
-
-### 🚀 **Engineering Digital Systems & Scalable Infrastructure**
+### 🚀 **Engineering**
 
 I am a **Computer Engineering Student** with a solid grounding in Data Structures, Algorithms, and Distributed Systems. My focus is on bridging the gap between high-performance development and automated, cloud-native engineering.
 
