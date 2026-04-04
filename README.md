@@ -25,7 +25,7 @@ I am a **Computer Engineering Student** with a solid grounding in Data Structure
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **✨ [Personal Portfolio](https://portfolio-gold-zeta-ge30omorho.vercel.app/)** | My high-performance creative development portfolio featuring 60FPS WebGL animations and optimized asset delivery. | `Next.js` • `Framer Motion` • `Spline` |
+| **✨ [Personal Portfolio](https://kshitijs-portfolio.vercel.app/)** | My high-performance creative development portfolio featuring 60FPS WebGL animations and optimized asset delivery. | `Next.js` • `Framer Motion` • `Spline` |
 | **🚢 [HostelHub](https://github.com/kshitijx07/Hostelhub)** | A production-ready, full-stack management platform with Jenkins CI/CD, Docker containerization, and AWS EC2 deployment. | `MERN` • `AWS` • `Docker` • `Jenkins` |
 | **🛒 [Grocito](https://github.com/kshitijx07/Grocito-Copy)** | Real-time grocery ordering system with user, admin, and delivery partner portals. | `Spring Boot` • `MySQL` • `React` |
 | **🛠️ [MechItEasy](https://mechiteasy.vercel.app/)** | A platform simplifying mechanical engineering concepts through interactive tutorials and resources. | `HTML5` • `CSS3` • `JS` |
